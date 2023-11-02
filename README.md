@@ -18,6 +18,10 @@ git config --global user.name "sachi"
 ```
 $ git config --list
 
+![image](https://github.com/Sary556/git_connect/assets/141836031/058d4ece-3302-484f-bdc0-c98a1d3e44b9)
 
 
 ![화면 캡처 2023-11-02 111028](https://github.com/Sary556/git_connect/assets/141836031/058d4ece-3302-484f-bdc0-c98a1d3e44b9)
+
+
+✏️ ⬆️의 내용은 컴퓨터에 한번만 설치하면 됨.
