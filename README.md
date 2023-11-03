@@ -31,6 +31,14 @@ $ git config --list
 
 ✏️ ⬆️의 내용은 컴퓨터에 한번만 설치하면 됨.
 ----------------
+
+![image](https://github.com/Sary556/git_connect/assets/141836031/058d4ece-3302-484f-bdc0-c98a1d3e44b9)
+
+![화면 캡처 2023-11-02 111028](https://github.com/Sary556/git_connect/assets/141836031/058d4ece-3302-484f-bdc0-c98a1d3e44b9)
+
+![화면 캡처 2023-11-02 111028](https://github.com/Sary556/git_connect/assets/141836031/3d6bc1fd-b93e-499b-a255-64cbe5c87a0c)
+
+![image](https://github.com/Sary556/git_connect/assets/141836031/f41da933-0ce7-4808-b240-4f4a9af2e924)
 ----------------
 
 githtb에 코드 업로드하기
