@@ -20,7 +20,7 @@ git config --global user.name "sachi"
 # 정보 확인하기
 ```
 $ git config --list
-
+```
 
 ✏️ ⬆️의 내용은 컴퓨터에 한번만 설치하면 됨.
 ----------------
