@@ -79,4 +79,43 @@ git push origin master
 ![image](https://github.com/Sary556/git_connect/assets/141836031/f0127fec-8903-4fd5-ad27-b1cbe19d3f8c) 소스제어(ctrl+shift+g g)버튼에서 이름을 생성해서 커밋하면 간편하게끝
 ```
 
+-------------
+
+#Github에 계속 업데이트 하는 법 
+
+1. 추가할 파일 더하기 
+
+```
+git add .
+```
+
+2. 히스토리 만들기
+
+```
+git commit -m "메모할말"
+```
+
+3. Github에 올리기
+
+```
+git push origin master
+```
+
+단 ) 올릴때 오류가 발생한다면 
+
+# 1. 다시 github의 내용을 끌어와야한다.
+
+```
+git pull origin master
+```
+# 2. 히스토리 만들기
+
+```
+git commit -m "메모할말"
+```
+# 3. github에 올리기
+
+```
+git push origin master
+```
 
